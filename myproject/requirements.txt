@@ -18,3 +18,4 @@ rjsmin==1.0.12
 six==1.10.0
 tzlocal==1.2.2
 uWSGI==2.0.13.1
+whitenoise==3.2.1
